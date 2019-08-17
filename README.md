@@ -4,7 +4,6 @@ Nontonanime.tv bash using unoficial api
 
 ![](https://1.bp.blogspot.com/-FJGzYnHeZso/XVd-wUIhgFI/AAAAAAAAJos/3yRG58XtZmYSURL1UP5UIiIqJxUm__tlwCLcBGAs/s1600/Screenshot_90.png)  
 
-**bash**
 ```sh
 $ ./nani.sh #chmod +x if necessary
 ```  
